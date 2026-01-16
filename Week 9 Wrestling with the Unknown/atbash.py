@@ -1,0 +1,1 @@
+print("".join([chr(155 - ord(char)) for char in input()]))
