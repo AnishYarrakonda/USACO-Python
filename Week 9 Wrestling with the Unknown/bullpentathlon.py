@@ -1,18 +1,16 @@
-import numpy as np
-
 N = int(input())
+iterations = min(5, N)
 bulls = [(i, list(map(int, input().split()))) for i in range(N)]
 best = [[] for _ in range(5)]
 
 for i in range(5):
     bulls.sort(reverse=True, key=lambda x : x[1][i])
     j = 0
-    while j < N and j < 10:
+    while j < iterations:
         best[i].append(bulls[j])
         j += 1
 
 max_score = 0
-iterations = min(10, N)
 for a in range(iterations):
     for b in range(iterations):
         for c in range(iterations):
