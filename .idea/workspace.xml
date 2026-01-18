@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="trt&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extra Practice/S-T/sliding_window_summation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Practice/S-T/sliding_window_summation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
