@@ -21,4 +21,7 @@ for _ in range(T):
                 y -= 1
 
     for i in range(16):
-        print()
+        for shift in range(4):
+            mask = i >> shift
+            if shift & 1:
+                
