@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s">
-      <change afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/baassies_baack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/labyrinth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/readable_arrangements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/spider_sense.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/readable_arrangements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/readable_arrangements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
     "Python.roving_ruminant_robot_reboot.executor": "Run",
     "Python.sliding_window_summation.executor": "Run",
     "Python.soda_dispenser.executor": "Run",
+    "Python.spider_sense.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768768604176</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="s">
+      <option name="closed" value="true" />
+      <created>1769154433535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769154433535</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
