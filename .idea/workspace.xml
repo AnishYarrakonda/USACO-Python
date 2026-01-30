@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s">
-      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/cross_talk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/compressie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/wallhacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 13 Final Practice Olympiad/cowphabet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 13 Final Practice Olympiad/cruise_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 13 Final Practice Olympiad/seed_median.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +56,13 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.baassies_baack.executor": "Run",
     "Python.cake_cutting.executor": "Run",
+    "Python.cowphabet.executor": "Run",
     "Python.cross_talk.executor": "Run",
     "Python.labyrinth.executor": "Run",
     "Python.pushdown_automation.executor": "Run",
     "Python.readable_arrangements.executor": "Run",
     "Python.roving_ruminant_robot_reboot.executor": "Run",
+    "Python.seed_median.executor": "Run",
     "Python.sliding_window_summation.executor": "Run",
     "Python.soda_dispenser.executor": "Run",
     "Python.spider_sense.executor": "Run",
@@ -72,6 +78,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769736418742</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="s">
+      <option name="closed" value="true" />
+      <created>1769738679512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769738679513</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
