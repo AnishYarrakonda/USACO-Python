@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s">
-      <change afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/compressie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 10 Permutations and Puzzling Problems/wallhacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 13 Final Practice Olympiad/cowphabet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 13 Final Practice Olympiad/cruise_control.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 13 Final Practice Olympiad/seed_median.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769738679513</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="s">
+      <option name="closed" value="true" />
+      <created>1769744148876</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1769744148876</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
