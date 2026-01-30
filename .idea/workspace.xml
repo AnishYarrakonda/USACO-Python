@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 11 Geometry/cross_talk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 11 Geometry/cross_talk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.baassies_baack.executor": "Run",
     "Python.cake_cutting.executor": "Run",
+    "Python.cross_talk.executor": "Run",
     "Python.labyrinth.executor": "Run",
     "Python.pushdown_automation.executor": "Run",
     "Python.readable_arrangements.executor": "Run",
