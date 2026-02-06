@@ -37,7 +37,7 @@ for _ in range(t):
     n, a = map(int, input().split())
     rects = [list(map(int, input().split())) for _ in range(n)]
     # Find the max area first because that function is nondestructive
-    #  (does not alter the list of rectangles) 
+    #  (does not alter the list of rectangles)
     mx = max_area(rects)
     mn = min_area(rects)
     print("YES" if (mn <= a <= mx) else "NO")

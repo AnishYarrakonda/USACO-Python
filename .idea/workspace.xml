@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s" />
+    <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/bops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/cabbage_cannons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/farmers_union.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/prime_crime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/sticker_mischief.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/a_hundred_floors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/avoiding_the_resorts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/dont_eat_your_tail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/guessie_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/jumpin_jessie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/messary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/riding_horses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +62,9 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.a_hundred_floors.executor": "Run",
     "Python.baassies_baack.executor": "Run",
+    "Python.balancing_the_barns.executor": "Run",
     "Python.cake_cutting.executor": "Run",
     "Python.cowphabet.executor": "Run",
     "Python.cross_talk.executor": "Run",
