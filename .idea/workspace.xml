@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/bops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/cabbage_cannons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/farmers_union.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/prime_crime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 11 Geometry/sticker_mischief.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/a_hundred_floors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/avoiding_the_resorts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/dont_eat_your_tail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/guessie_again.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/jumpin_jessie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/messary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 12 Binary Search/riding_horses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="81866e13-810d-4647-9b26-23012bb03705" name="Changes" comment="s" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -58,36 +44,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.a_hundred_floors.executor": "Run",
-    "Python.baassies_baack.executor": "Run",
-    "Python.balancing_the_barns.executor": "Run",
-    "Python.cake_cutting.executor": "Run",
-    "Python.cowphabet.executor": "Run",
-    "Python.cross_talk.executor": "Run",
-    "Python.labyrinth.executor": "Run",
-    "Python.pushdown_automation.executor": "Run",
-    "Python.readable_arrangements.executor": "Run",
-    "Python.roving_ruminant_robot_reboot.executor": "Run",
-    "Python.seed_median.executor": "Run",
-    "Python.sliding_window_summation.executor": "Run",
-    "Python.soda_dispenser.executor": "Run",
-    "Python.spider_sense.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/anish_1/Documents/Python-Coding-Practice/USACO-Python",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.a_hundred_floors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.baassies_baack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.balancing_the_barns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cake_cutting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cowphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cross_talk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labyrinth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pushdown_automation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readable_arrangements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.roving_ruminant_robot_reboot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seed_median.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sliding_window_summation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soda_dispenser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spider_sense.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anish_1/Documents/Python-Coding-Practice/USACO-Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -180,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769744148876</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="s">
+      <option name="closed" value="true" />
+      <created>1770343029513</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770343029513</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
